@@ -25,7 +25,7 @@ const UserRouter = require("./api/User");
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("API is live 🚀");
+  res.send("API is live f 🚀");
 });
 
 app.use("/user", UserRouter);
