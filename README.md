@@ -1,7 +1,5 @@
-Task Manager Project
-Overview
-
-Task Manager is a full-stack web application that allows users to efficiently manage tasks. Users can create, view, update, and delete tasks. The app provides an organized interface to track personal or team tasks and improve productivity.
+<h1>Task Manager Project Overview</h1>
+<h4>Task Manager is a full-stack web application that allows users to efficiently manage tasks. Users can create, view, update, and delete tasks. The app provides an organized interface to track personal or team tasks and improve productivity.</h4>
 
 <h2>Features</h2>
 <ul>
@@ -22,7 +20,7 @@ Task Manager is a full-stack web application that allows users to efficiently ma
 </ul>
 
 <h2>UI/UX</h2>
-Admin Dashboard
+<h2>Admin Dashboard</h2>
 <img width="1898" height="952" alt="Screenshot 2025-09-04 192606" src="https://github.com/user-attachments/assets/bc2e688c-c702-4191-9905-926ad5106127" />
 
 <h2>User Dashboard</h2>
